@@ -1,0 +1,3009 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <tv generator-info-name="Generator/0.01" generator-info-url="http://xmltv.s-tv.ru">
+    <channel id="MOSCOW-24s">
+       <display-name lang="ru">МОСКВА-24 (сайт)</display-name>
+    </channel>
+    <programme start="20181001060000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">УТРЕННЕЕ ВЕЩАНИЕ</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001100000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001101500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. ДОМ СВЯЗИ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001103500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ КРУПНАЯ РЫБА 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001110000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001113000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001114500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001120000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001123000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001124500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. ЖИВОЙ ОРГАНИЗМ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001130000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001133000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001134500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001140000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001143000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ КРУПНАЯ РЫБА 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001150000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001151500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ТОРГИ МОСКВЫ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001153000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001160000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001161500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ИНТЕРВЬЮ С ОЛЬГОЙ ГРАЧЁВОЙ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001163000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ФАНИМАНИ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001170000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001173000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ИНТЕРВЬЮ С ВЛАДИМИРОМ ПЕТРОСЯНОМ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001180000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001181500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001183500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ КРУПНАЯ РЫБА 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001190000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА СЕГОДНЯ</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001191000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001193000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001194000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ. ДОЛОЙ ТСЖ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001200000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001201500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА СЕГОДНЯ</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001203000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001210000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001211500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001213000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СКОПЛЕНИЕ ЗВЁЗД 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001220000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001223000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001230000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001231500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001233000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ КРУПНАЯ РЫБА 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001000000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001003500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ТОП-СЕТЬ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001010000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001011500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ. ДОЛОЙ ТСЖ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001013000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001020000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001021500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ТОРГИ МОСКВЫ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001023500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СКОПЛЕНИЕ ЗВЁЗД 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001030000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001031500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001033500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ КРУПНАЯ РЫБА 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001040000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001043000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001050000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001051500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181001053500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СКОПЛЕНИЕ ЗВЁЗД 12+</title>
+      
+      <date>2018-10-01</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002060000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">УТРЕННЕЕ ВЕЩАНИЕ</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002100000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002101500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002103500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СКОПЛЕНИЕ ЗВЁЗД 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002110000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002113000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002114500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002120000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002123000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002124500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002130000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002133000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002134500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002140000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002143000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СКОПЛЕНИЕ ЗВЁЗД 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002150000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002153000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002160000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002161500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002163000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ЖИЗНЬ В БОЛЬШОМ ГОРОДЕ. ФИТНЕС БЕЗ ПРАВИЛ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002170000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002173000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002174000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ИНТЕРВЬЮ С ДМИТРИЕМ КРАСНИКОВЫМ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002180000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002181000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002183000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СКОПЛЕНИЕ ЗВЁЗД 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002190000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА СЕГОДНЯ</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002191000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002193000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002194500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ. НЕСИТЕ ВЁДРА 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002200000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002201000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА СЕГОДНЯ</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002202500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002210000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002211500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002213000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СЁСТРЫ НА СВОБОДЕ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002220000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002223000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002230000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002231500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002233500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СКОПЛЕНИЕ ЗВЁЗД 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002000000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002003500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">БОЛЬШОЙ КУШ. ЧАСТНЫЕ ДЕТЕКТИВЫ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002010000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002011500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ. НЕСИТЕ ВЁДРА 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002013000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002020000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002021500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002023500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СЁСТРЫ НА СВОБОДЕ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002030000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002031500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002033500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА С АКЦЕНТОМ. БРУНО СОБЕСКИ ЧАВЕС БУЭНОС-АЙРЕС 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002040000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002043000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002050000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002051500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181002053500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СЁСТРЫ НА СВОБОДЕ 12+</title>
+      
+      <date>2018-10-02</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003060000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">УТРЕННЕЕ ВЕЩАНИЕ</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003100000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003101500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003103500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СЁСТРЫ НА СВОБОДЕ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003110000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003113000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003114500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003120000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003123000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003124000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003130000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003133000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003134500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003140000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003143000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СЁСТРЫ НА СВОБОДЕ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003150000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003153000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003160000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003161500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003163000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ЖИЗНЬ В БОЛЬШОМ ГОРОДЕ. РАЗВИТИЕ РАЙОНОВ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003170000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003173000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003174000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ИНТЕРВЬЮ СО СВЯТОСЛАВОМ ГОРБАНЕМ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003180000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003181500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003183500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СЁСТРЫ НА СВОБОДЕ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003190000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА СЕГОДНЯ</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003191000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003193000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003194500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ. НЕСИТЕ ВЁДРА 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003200000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003201500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА СЕГОДНЯ</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003203000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003210000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003211500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003213000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. Я УЖЕ ВЗРОСЛЫЙ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003220000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003223000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003230000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003231500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003233500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. СЁСТРЫ НА СВОБОДЕ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003000000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003003500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА С АКЦЕНТОМ. БРУНО СОБЕСКИ ЧАВЕС БУЭНОС-АЙРЕС 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003010000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003011500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ. НЕСИТЕ ВЁДРА 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003012500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003020000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003021500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003023500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. Я УЖЕ ВЗРОСЛЫЙ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003030000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003031500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003033500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">БОЛЬШОЙ КУШ. ЧАСТНЫЕ ДЕТЕКТИВЫ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003040000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003042500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003050000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003051500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181003053500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. Я УЖЕ ВЗРОСЛЫЙ 12+</title>
+      
+      <date>2018-10-03</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004060000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">УТРЕННЕЕ ВЕЩАНИЕ</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004100000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004101500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004103500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004110000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004113000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004114500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004120000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004123000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004124500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004130000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004133000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004134500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004140000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004143000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004150000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004153000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004160000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004161500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004163000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ЖИЗНЬ В БОЛЬШОМ ГОРОДЕ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004170000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004173000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004174000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ИНТЕРВЬЮ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004180000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004181500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004183000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004190000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА СЕГОДНЯ</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004191000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004193000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004194500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004200000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004201500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА СЕГОДНЯ</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004203000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004210000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004211500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004213000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004220000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004223000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004230000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004231500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004233000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004000000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004003000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СДЕЛАНО В МОСКВЕ. ЗООПАРК 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004010000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004011500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004013000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004020000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004021500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004023000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004030000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004031500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004033000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НАИЗНАНКУ. БЕЗЛАКТОЗНОЕ МОРОЖЕНОЕ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004040000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004042500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004050000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004051500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181004053000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-04</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005060000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">УТРЕННЕЕ ВЕЩАНИЕ</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005100000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005101500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005103500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005110000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005113000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005114500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005120000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005123000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005124500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005130000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005133000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005134500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005140000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005143000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005150000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005153000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005160000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005161500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005163000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ЖИЗНЬ В БОЛЬШОМ ГОРОДЕ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005170000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005173000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005174000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ИНТЕРВЬЮ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005180000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005181500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005183000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">АФИША 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005190000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА СЕГОДНЯ</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005191000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005193000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005194500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005200000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005201500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА СЕГОДНЯ</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005203000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005210000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005211500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005213000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005220000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005223000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005230000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005231500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005233000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005000000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005003000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">АФИША 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005010000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005011500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005013000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005020000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005021500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005023000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005030000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005031500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">КЛИМАТ-КОНТРОЛЬ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005033000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СДЕЛАНО В МОСКВЕ. ЗООПАРК 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005040000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005042500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">В ТЕМЕ 16+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005050000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005051500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ. ОТРЯД СПАСЕНИЯ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181005053000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-05</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006060000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006061500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКОВСКИЙ ПАТРУЛЬ 16+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006063000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006070000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006071500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006073000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НАИЗНАНКУ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006080000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006081500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006083000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006090000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006091500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006093000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006100000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006101500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006103000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СДЕЛАНО В МОСКВЕ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006110000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006111500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006113000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">БОЛЬШОЙ КУШ. ПАРКИНГ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006120000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006121500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006123000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006130000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006131500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006133000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА С АКЦЕНТОМ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006140000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006141500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006143000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ФАНИМАНИ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006150000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006151500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006153000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006160000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006161500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006163000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СДЕЛАНО В МОСКВЕ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006170000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006171500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006173000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006180000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006181500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006183000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006190000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006191500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006193500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006200000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006201500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006203000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НАИЗНАНКУ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006210000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006211500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ПРОСТЫЕ РЕШЕНИЯ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006213000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006220000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006221500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006223000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">БОЛЬШОЙ КУШ. ПАРКИНГ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006230000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006231500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006233000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СДЕЛАНО В МОСКВЕ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006000000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006001500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006003000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006010000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006011500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006013000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006020000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006021500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006023000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА С АКЦЕНТОМ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006030000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006031500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006033000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СДЕЛАНО В МОСКВЕ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006040000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006041500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006043000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006050000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006051500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181006053000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-06</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007060000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007061500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007063000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СДЕЛАНО В МОСКВЕ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007070000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007071500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007073000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007080000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007081500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007083000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">БОЛЬШОЙ КУШ. ПАРКИНГ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007090000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007091500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007093000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ФАНИМАНИ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007100000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007101500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007103000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НАИЗНАНКУ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007110000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007111500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007113000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007120000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007121500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007123000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007130000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007131500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007133000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СДЕЛАНО В МОСКВЕ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007140000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007141500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007143000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">БОЛЬШОЙ КУШ. ПАРКИНГ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007150000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007151500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007153000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007160000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007161500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007163000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НАИЗНАНКУ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007170000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007171500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007173000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007180000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007181500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007183000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">МОСКВА С АКЦЕНТОМ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007190000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007191500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007193500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">БОЛЬШОЙ КУШ. ПАРКИНГ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007200000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007201500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007203000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СДЕЛАНО В МОСКВЕ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007210000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007211500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПОРНАЯ ТЕРРИТОРИЯ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007213000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007220000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007221500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007223000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ФАНИМАНИ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007230000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007231500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007233000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НАИЗНАНКУ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007000000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007001500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007003000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007010000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007011500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007013000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007020000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007021500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007023000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">ФАНИМАНИ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007030000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007031500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007033000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НАИЗНАНКУ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007040000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007041500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007043000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007050000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">НОВОСТИ<icon class='YhYho'></icon></title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007051500 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СЕТЬ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+    <programme start="20181007053000 +0400" channel="MOSCOW-24s">
+      <title lang="ru">СПЕЦИАЛЬНЫЙ РЕПОРТАЖ 12+</title>
+      
+      <date>2018-10-07</date>
+      <video></video>
+      <category lang="ru">Инфо</category>
+    </programme>
+ </tv>
